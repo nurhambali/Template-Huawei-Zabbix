@@ -1,10 +1,8 @@
-
-
 # Templet-Qos-Huawei-Zabbix
 
 ##### Zabbix Version  4.0.0rc3
 
-# QOS huawei match classifier Pass Btyes Rate
+# QOS Huawei Match Classifier Pass Btyes Rate
 
 
 ##### Mib File HUAWEI-CBQOS-MIB
@@ -19,7 +17,7 @@ This template support hadware huawei that file MIB HUAWEI-CBQOS-MIB
 
 #### Not Support Generate Graph
 
-Because this file not support apperate inbound and outbound, your manual configure graph.
+Because this file not support separate inbound and outbound, your manual configure graph.
 
-
+#### [Document](http://support.huawei.com/hedex/pages/EDOC1000069158DEE03196/09/EDOC1000069158DEE03196/09/resources/dc/dc_ar_mib_cbqos_0027.html?ft=99&id=)
 

@@ -1,8 +1,20 @@
-# Templet-Qos-Huawei-Zabbix
+# Templet-Huawei-Zabbix
 
 ##### Zabbix Version  4.0.0rc3
 
-# QOS Huawei Match Classifier Pass Btyes Rate
+
+Support Device Huawei AR 2200 
+
+
+### BGP Huawei 
+
+#Status BGP 
+#Peer BGP 
+
+
+
+# QOS Huawei 
+
 
 
 ##### Mib File HUAWEI-CBQOS-MIB

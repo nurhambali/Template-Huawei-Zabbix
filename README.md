@@ -7,13 +7,13 @@
 
 ##### Mib File HUAWEI-CBQOS-MIB
 
-HUAWEI-CBQOS-MIB::hwCBQoSPolicyStatClassifierMatchedPassPacketsRate
+HUAWEI-CBQOS-MIB::hwCBQoSPolicyStatClassifierMatchedBytesRate
 
 This template support hadware huawei that file MIB HUAWEI-CBQOS-MIB 
 
 ##### OID SNMP 
 
-1.3.6.1.4.1.2011.5.25.32.1.1.5.6.4.1.13 
+1.3.6.1.4.1.2011.5.25.32.1.1.5.6.4.1.11
 
 #### Not Support Generate Graph
 
